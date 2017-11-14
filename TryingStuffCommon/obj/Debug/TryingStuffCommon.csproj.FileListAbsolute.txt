@@ -1,0 +1,4 @@
+c:\users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffCommon\bin\Debug\TryingStuffCommon.dll
+c:\users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffCommon\bin\Debug\TryingStuffCommon.pdb
+c:\users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffCommon\obj\Debug\TryingStuffCommon.dll
+c:\users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffCommon\obj\Debug\TryingStuffCommon.pdb
