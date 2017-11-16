@@ -1,0 +1,10 @@
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\bin\Debug\TryingStuffServicev2.exe.config
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\bin\Debug\TryingStuffServicev2.exe
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\bin\Debug\TryingStuffServicev2.pdb
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\bin\Debug\TryingStuffCommon.dll
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\bin\Debug\TryingStuffCommon.pdb
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\obj\Debug\TryingStuffServicev2.csprojResolveAssemblyReference.cache
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\obj\Debug\TryingStuffServicev2.exe
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\obj\Debug\TryingStuffServicev2.pdb
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\obj\Debug\TryingStuffServicev2.ProjectInstaller.resources
+C:\Users\mfreites\documents\visual studio 2017\Projects\TryingStuff\TryingStuffServicev2\obj\Debug\TryingStuffServicev2.csproj.GenerateResource.Cache
