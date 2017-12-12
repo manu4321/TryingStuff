@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using TryingStuffCommon.Model;
 
 namespace TryingStuffWeb.Controllers
 {
@@ -10,6 +11,18 @@ namespace TryingStuffWeb.Controllers
     {
         public ActionResult Index()
         {
+            try
+            {
+                IEntryPointService service = new EntryPointServiceClient();
+                ViewBag.Message = "First message: " + service.GetRatings();
+                ViewBag.Ratings = service.GetRatings();
+            }
+            catch(Exception e)
+            {
+                ViewBag.Message = "Error was: " +  e.Message;
+                ViewBag.Ratings = new Rating[0];
+            }
+
             return View();
         }
 

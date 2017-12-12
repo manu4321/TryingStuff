@@ -36,6 +36,7 @@
     <Reference Include="System.configuration" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Management" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
@@ -47,7 +48,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ado\Ado.cs" />
+    <Compile Include="contexts\DatabaseContext.cs" />
+    <Compile Include="dao\Dao.cs" />
     <Compile Include="EntryPointServiceImpl.cs" />
     <Compile Include="IEntryPointService.cs" />
     <Compile Include="services\EntryPoint\IEntryPointService.cs" />
